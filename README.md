@@ -18,3 +18,7 @@ Coursework Projects:
 - 🌿 Git & GitHub for version control
 - 🔄 Tracking project progress and changes
 - ✨ Emphasis on clean, readable, and maintainable code
+
+[![Ruslan's GitHub stats](https://github-readme-stats-sandy-phi-14.vercel.app/api?username=ShevRuslan1&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ruslan's GitHub stats](https://github-readme-stats-sandy-phi-14.vercel.app/api/top-langs/?username=ShevRuslan1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
