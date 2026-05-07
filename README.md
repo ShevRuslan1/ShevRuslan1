@@ -1,8 +1,9 @@
-** About Me**
+**About Me**
 
 Computer Science student at the University at Albany (SUNY), currently carrying a 3.5 overall GPA, seeking a software engineering internship. In addition to academics, I put effort into enhancing and sustaining my algorithmic, system design, and problem-solving skills.
 
-** Technical Skills & Experience**
+**Technical Skills & Experience**
+
 Programming & Concepts:
 - Java (primary programming language)
 - Object-Oriented Programming (OOP)
