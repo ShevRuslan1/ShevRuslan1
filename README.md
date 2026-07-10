@@ -65,7 +65,7 @@
 
 <h2 align="left">Featured Work</h2>
 
-> Projects where I am applying product thinking, desktop engineering, and computer science fundamentals.
+> Projects for fun.
 
 <p align="left">
   <a href="https://github.com/RefractMC/Refract_MC"><img width="49%" src="https://github-readme-stats-sandy-phi-14.vercel.app/api/pin/?username=RefractMC&repo=Refract_MC&theme=refract&border_radius=12&description_lines_count=2" alt="Refract repository card" /></a>
