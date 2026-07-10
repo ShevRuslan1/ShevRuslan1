@@ -14,7 +14,7 @@
 - :rocket: &nbsp;Building **[Refract]**, a modern open-source Minecraft launcher
 - :seedling: &nbsp;Improving my **algorithms, system design, and problem-solving** skills
 - :briefcase: &nbsp;Seeking a **software engineering internship**
-- :round_pushpin: &nbsp;Based in **Albany, New York**
+- :round_pushpin: &nbsp;Based in **Albany / Warwick, New York**
 
 <br clear="both">
 
